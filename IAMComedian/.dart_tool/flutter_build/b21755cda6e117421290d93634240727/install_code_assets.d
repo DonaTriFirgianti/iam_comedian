@@ -1,0 +1,1 @@
+ D:\\DONA\\Tugas\ Kuliah\\Semester\ 4\\Mobile\\tugas1\\.dart_tool\\flutter_build\\b21755cda6e117421290d93634240727\\native_assets.json: 
